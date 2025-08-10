@@ -1,3 +1,3 @@
 ### JAVA APPLICATION
-#### VOTEGUI
-#### Interest Calculator
+#### 1. VOTEGUI
+#### 2. Interest Calculator
