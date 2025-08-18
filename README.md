@@ -3,4 +3,4 @@
 #### 2. Interest Calculator GUI
 #### 3. Zip Utility GUI 
 #### 4. Screenshot App
-#### 5. Inventory Management System
+#### 5. Inventory Management System GUI
