@@ -7,4 +7,5 @@
 6. AttendanceSystem GUI
 7. NumberGuessingGame GUI
 8. Snake Game GUI
+9. SpeedDistanceTimeCalculator GUI
 
