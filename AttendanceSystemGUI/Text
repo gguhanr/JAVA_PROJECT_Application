@@ -1,0 +1,4 @@
+Run & Compile command
+
+javac AttendanceSystem.java
+java AttendanceSystem.java
