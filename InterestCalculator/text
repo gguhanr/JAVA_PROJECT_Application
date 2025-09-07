@@ -1,0 +1,4 @@
+Run & Compile command 
+
+javac InterestCalculator.java
+java InterestCalculator.java
