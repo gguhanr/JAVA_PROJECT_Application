@@ -1,0 +1,4 @@
+RUN & COMPILE COMMAND
+javac StudentInfoSystem.java
+java StudentInfoSystem.java 
+
