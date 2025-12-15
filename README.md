@@ -9,7 +9,7 @@
 7. NumberGuessingGame GUI
 8. Snake Game GUI  
 9. SpeedDistanceTimeCalculator GUI
-10. LibraryManagementSystem   
+10. LibraryManagementSystem     
 11. StudentInfoSystem   
   
 
