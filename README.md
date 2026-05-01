@@ -1,4 +1,4 @@
-## JAVA_PROJECT_Application  
+## JAVA_PROJECT_APPLICATIONS  
 * A Java-based GUI application demonstrating graphical user interface development using Swing or JavaFX.
 * Enhanced this all Code NEW UPADTE FOR BEST_TEAM !!! NOT OTHER TEAM ....
 -----
