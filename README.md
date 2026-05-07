@@ -42,7 +42,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 24. PalindromeChecker GUI In Java
 25. EmailConverterGUI In Java
 26. NumberToWordsGUI In Java
-27.  
+27. QuizGame In Java
   
       
   
