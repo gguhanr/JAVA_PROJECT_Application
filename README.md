@@ -45,7 +45,7 @@ MY JDK Version is Jdk23 (javac 23.0.2)
 27. QuizGame In Java
 28. BillSplitterTool In Java
 29. GradeCalculator In Java
-30. 
+30. MadLibsGenerator In Java 
   
       
   
